@@ -1,4 +1,4 @@
-# NoddingDetection
+# Nodding Detection
 
 ## Objective
 To detect whether a person is nodding up-done (i.e. saying yes) or shaking head left-right (i.e. saying no).
